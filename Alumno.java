@@ -4,8 +4,6 @@ public class Alumno
 {
     public int clave;
     public String nombre;
-    
-    
     public Alumno(int clave, String nombre)
     {
         this.clave= clave;

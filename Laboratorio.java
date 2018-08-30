@@ -16,7 +16,7 @@ public class Laboratorio
             String aux = alumnos.get(i);
             if (aux.clave == claveBaja)
             {
-                
+               alumnos.remove(i); 
             }
         }
         
